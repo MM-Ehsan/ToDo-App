@@ -22,15 +22,3 @@ The purpose of this project is to practice core concepts and then keep improving
 - Better UI/UX with animations  
 - Deployment to a live server  
 
-#  Installation  
-Clone the repository and install dependencies:  
-
-```bash
-
-cd todo-app
-npm install
-npm start
-=======
-# ToDo-App
-A ToDo App with basic functions such as delete task and pop up,onging project and will improve the functionality  of app as I will learn new frameworks. 
->>>>>>> f41d23fbc8777327e6f4b6c94f691686361a3d4c
